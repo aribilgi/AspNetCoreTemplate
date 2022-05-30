@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\startbootstrap-agency-gh-pages\css\" />
+    <Folder Include="wwwroot\startbootstrap-agency-gh-pages\js\" />
+  </ItemGroup>
+
+</Project>
